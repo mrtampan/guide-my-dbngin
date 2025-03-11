@@ -8,4 +8,5 @@ export PATH=/Users/Shared/DBngin/mysql/5.7.23/bin:$PATH``
 ``mysql --socket /tmp/mysql_3306.sock -uroot``
 
 Reference
+
 https://github.com/TablePlus/DBngin/issues/38
