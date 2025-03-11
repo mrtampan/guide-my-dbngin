@@ -8,7 +8,9 @@ export PATH=/Users/Shared/DBngin/mysql/5.7.23/bin:$PATH
 
 
 - connect mysql via terminal
-``mysql --socket /tmp/mysql_3306.sock -uroot``
+```
+mysql --socket /tmp/mysql_3306.sock -uroot
+```
 
 Reference
 
